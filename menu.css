@@ -1,0 +1,25 @@
+ul
+{
+    list-style:none;
+    margin:0px;
+    padding:0px;
+    margin-top:25px;
+    background:blueviolet;
+    height:50px;
+}
+li
+{
+    float: left;
+    margin-right:5px;
+}
+a
+{
+    text-decoration: none;
+    background: blueviolet;
+    color:white;
+    padding:0px 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height:50px;
+    border-right:1px solid purple;
+    display:block;
+}
